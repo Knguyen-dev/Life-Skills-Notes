@@ -19,9 +19,10 @@
 
 - NOTE: When relying on per unit pricing, make sure that when you
   buy a large container of something that you'll actually use the product or have
-  space for it. Like, of course the 36 mega pack of paper towels is probably
-  a couple cents cheaper when looking at unit price, but you may not need
-  that much. Or the 24 inch pizza, which is somehow 0.25 cents cheaper
+  space for it. Buying in bulk doesn't work when you're not going to use it or
+  don't have enough space for storing it. At that point you're paying more
+  due to the increase bulk price, or due to how your item may be perishable
+  and you're not using it all. Like, a 24 inch pizza, which is somehow 0.25 cents cheaper
   than the regular pizza. Is it really the better deal if I'm spending
   10 more dollars on something I'm not going to finish? Just keep that
-  common sense and moderation in mind.s
+  common sense and moderation in mind.
