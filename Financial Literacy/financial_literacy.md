@@ -30,9 +30,13 @@
 
 - Consumer Credit:
 
-1. NerdWallet: https://www.nerdwallet.com/article/finance/30-percent-ideal-credit-utilization-ratio-rule
-2. Experian: https://www.experian.com/blogs/ask-experian/credit-education/score-basics/credit-utilization-rate/
-3. Investopedia: https://www.investopedia.com/how-to-cancel-a-credit-card-4590033#:~:text=Credit%20experts%20advise%20against%20closing,
+1. NerdWallet (Credit utilization): https://www.nerdwallet.com/article/finance/30-percent-ideal-credit-utilization-ratio-rule
+2. Experian (Credit score): https://www.experian.com/blogs/ask-experian/credit-education/score-basics/credit-utilization-rate/
+3. Investopedia (Credit Card Cancellation): https://www.investopedia.com/how-to-cancel-a-credit-card-4590033#:~:text=Credit%20experts%20advise%20against%20closing,
    using%20them%2C%20for%20good%20reason.
-4. Chase: https://www.chase.com/personal/credit-cards/education/credit-score/does-checking-your-score-lower-it
-5. Credit Karma: https://www.creditkarma.com/advice/i/hard-credit-inquiries-and-soft-credit-inquiries
+4. Chase (Credit score and Inquiries): https://www.chase.com/personal/credit-cards/education/credit-score/does-checking-your-score-lower-it
+5. Credit Karma (Inquiries): https://www.creditkarma.com/advice/i/hard-credit-inquiries-and-soft-credit-inquiries
+6. Nerd Wallet (Credit vs Debit): https://www.nerdwallet.com/article/credit-cards/credit-card-vs-debit-card-safer-online-purchases
+7. Billing Cycle and Grace Period: https://www.youtube.com/watch?v=TYK5GA4uYwU
+8. Billing Cycle (Capital One): https://www.capitalone.com/learn-grow/money-management/cash-advance/
+9. Billing Cycle (LinkedIn): https://www.linkedin.com/posts/priyank-shah-thefinancialist_everybody-loves-credit-card-rewards-but-activity-7086964392767963136-h-F9
