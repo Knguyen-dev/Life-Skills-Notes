@@ -40,3 +40,9 @@
 7. Billing Cycle and Grace Period: https://www.youtube.com/watch?v=TYK5GA4uYwU
 8. Billing Cycle (Capital One): https://www.capitalone.com/learn-grow/money-management/cash-advance/
 9. Billing Cycle (LinkedIn): https://www.linkedin.com/posts/priyank-shah-thefinancialist_everybody-loves-credit-card-rewards-but-activity-7086964392767963136-h-F9
+
+- Loans and Debt:
+# Credits: 
+1. Wallstreet survivor (mortgages): https://www.youtube.com/watch?v=CBIJwb37O_4
+2. Khan Academy (mortgages): https://www.youtube.com/watch?v=y-1Gh4ewklY
+3. Investopedia (mortgages): https://www.investopedia.com/mortgage/mortgage-rates/fixed-versus-adjustable-rate/
