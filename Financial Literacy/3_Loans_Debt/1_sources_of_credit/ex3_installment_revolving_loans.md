@@ -1,0 +1,8 @@
+# Installment vs Revolving Loans
+- Installation Credit/Loan: Where you borrow money, typically an initial large sum (principal), and then pay back the money in installments. Common examples are a mortgage, student debt payment, etc. as you're borrowing a large sum of money and paying it back over a long period. Here you'll pay more than the principal as you'll pay interest as well in your monthly payments.
+- Revolving Credit/Loan: When you have a limit of how much you can borrow, and you can use it repeatedly as long as you pay some back every month. An example is a credit card, as we use it and borrow money, but we pay it later. We're constantly using some of it and paying it back, as money is constantly revolving between the borrower and lender.
+
+# Differences between installment and revolving credit:
+1. Repayment: With revolving credit, you choose how you pay every month, as long as it meets the minimum. However with installment credit, you pay a fixed amount every month until you pay off the loan.
+2. Interest: Revolving credit typically has variable interest based on market conditions or credit score. This is compound interest. While installment credit has usually fixed interest rate and it uses simple interest, so your interest only depends on initial amount you owed. So the interest paid stays constant throughout the loan.
+3. Balance: With revolving credit, your balance can go up or down depending on how much you use or pay. With installment credit, your balance gradually goes down, as you pay the principal, which is the original amount you borrowed.
