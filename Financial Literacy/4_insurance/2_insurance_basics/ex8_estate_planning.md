@@ -43,4 +43,3 @@ Ali is a married father of two kids, and has a wife named Fatima. He wants to ma
 6. Choose a guardian if you have kids under 18.
 7. Talk to a lawyer to ensure your plan is legal. Your employer may provide a legal service, or you can get forms and instructions on how to do it onilne.
 8. Update your plan if your life changes, such as marriage, divorce, new kid, etc.
-1. 
